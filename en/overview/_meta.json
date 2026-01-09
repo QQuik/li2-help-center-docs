@@ -4,23 +4,17 @@
   "description": "Learn about Li2.ai marketing platform and how it can help you.",
   "order": 0,
   "hidden": false,
-  "featuredDocuments": [
-    {
-      "slug": "what-is-i2-ai",
-      "title": "What is Li2.ai?",
-      "order": 1
-    }
-  ],
+  "featuredDocuments": [],
   "documents": [
     {
-      "slug": "what-is-i2-ai",
+      "slug": "what-is-li2ai",
       "title": "What is Li2.ai?",
-      "order": 0
+      "order": 1
     },
     {
       "slug": "how-to-create-a-short-link-on-li2-ai",
       "title": "How to create a short link on Li2.ai?",
-      "order": 1
+      "order": 2
     }
   ]
 }
