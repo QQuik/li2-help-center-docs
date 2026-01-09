@@ -6,15 +6,15 @@
   "hidden": false,
   "featuredDocuments": [
     {
-      "slug": "test",
-      "title": "test",
+      "slug": "what-is-i2-ai",
+      "title": "What is Li2.ai?",
       "order": 1
     }
   ],
   "documents": [
     {
-      "slug": "test",
-      "title": "test",
+      "slug": "what-is-i2-ai",
+      "title": "What is Li2.ai?",
       "order": 0
     }
   ]
