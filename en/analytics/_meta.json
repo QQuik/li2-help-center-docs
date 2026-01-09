@@ -1,0 +1,14 @@
+{
+  "title": "Analytics",
+  "slug": "analytics",
+  "order": 1,
+  "hidden": false,
+  "featuredDocuments": [],
+  "documents": [
+    {
+      "slug": "overview",
+      "title": "Overview",
+      "order": 0
+    }
+  ]
+}
