@@ -1,10 +1,16 @@
 {
   "title": "Overview",
   "slug": "overview",
-  "description": "wwwwwwwwwwaaaaaaa",
+  "description": "Learn about Li2.ai marketing platform and how it can help you.",
   "order": 0,
   "hidden": false,
-  "featuredDocuments": [],
+  "featuredDocuments": [
+    {
+      "slug": "test",
+      "title": "test",
+      "order": 1
+    }
+  ],
   "documents": [
     {
       "slug": "test",
