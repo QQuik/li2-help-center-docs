@@ -2,7 +2,8 @@
   "en": {
     "seo": {
       "title": "Help Center",
-      "description": "Useful knowledges to get started with Li2.ai"
+      "description": "Useful knowledges to get started with Li2.ai",
+      "noindex": true
     }
   }
 }
