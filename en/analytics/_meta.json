@@ -3,7 +3,13 @@
   "slug": "analytics",
   "order": 1,
   "hidden": false,
-  "featuredDocuments": [],
+  "featuredDocuments": [
+    {
+      "slug": "overview",
+      "title": "Overview",
+      "order": 1
+    }
+  ],
   "documents": [
     {
       "slug": "overview",
