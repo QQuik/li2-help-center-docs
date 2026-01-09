@@ -16,6 +16,11 @@
       "slug": "what-is-i2-ai",
       "title": "What is Li2.ai?",
       "order": 0
+    },
+    {
+      "slug": "how-to-create-a-short-link-on-li2-ai",
+      "title": "How to create a short link on Li2.ai?",
+      "order": 1
     }
   ]
 }
