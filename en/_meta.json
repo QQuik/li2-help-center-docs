@@ -7,6 +7,12 @@
       "title": "Overview",
       "order": 0,
       "hidden": false
+    },
+    {
+      "slug": "analytics",
+      "title": "Analytics",
+      "order": 1,
+      "hidden": false
     }
   ]
 }
